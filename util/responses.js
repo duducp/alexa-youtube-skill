@@ -46,7 +46,19 @@ let messages = {
     "LOOP_OFF_TRIGGERED": "Non ti ripeterò più la tua selezione su {0}.",
     "REPEAT_TRIGGERED": "Ti suonerò la tua selezione su {0} solo una volta.",
     "HELP_TRIGGERED": "Per usare la skill di YouTube, chiedi alla skill di cercare il video che vuoi. In aggiunta, una volta che il video è in riproduzione, puoi chiedere ad Alexa di metterlo in pausa, riavviarlo, o di metterlo in loop."
-  }
+  },
+  "pt-BR": {
+    "NO_RESULTS_FOUND": "{0} não retornou nenhum resultado no YouTube.",
+    "ASK_TO_PLAY": "Encontrei o vídeo {0}. Deseja que eu faça o download agora?",
+    "ASK_TO_CONTINUE": "Download do vídeo está em andamento. Gostaria de continuar esperando?",
+    "NOW_PLAYING": "Agora irei reproduzir {0}.",
+    "NOTHING_TO_RESUME": "Você não está reproduzindo nada no momento.",
+    "NOTHING_TO_REPEAT": "Você não selecionou nenhum vídeo para reproduzir.",
+    "LOOP_ON_TRIGGERED": "Vou repetir infinitamente o vídeo {0}.",
+    "LOOP_OFF_TRIGGERED": "Não repetirei mais o vídeo {0}.",
+    "REPEAT_TRIGGERED": "Repetirei o vídeo {0} apenas uma vez.",
+    "HELP_TRIGGERED": "Para usar a habilidade do YouTube, diga à habilidade para procurar o vídeo desejado. Além disso, quando o vídeo estiver sendo reproduzido, você pode pedir ao Alexa para pausar, reiniciar ou fazer um loop."
+  },
 }
 
 messages['en-GB'] = messages['en-US'];

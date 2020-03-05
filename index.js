@@ -109,6 +109,8 @@ function search_video(req, res, lang) {
       search_url += "?language=fr";
     } else if (lang === "it-IT") {
       search_url += "?language=it";
+    } else if (lang === "pt-BR") {
+      search_url += "?language=br";
     }
     request(search_url, function(err, res, body) {
       if (err) {
